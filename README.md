@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/hakanbasargan" target="blank"><img src="https://img.shields.io/twitter/follow/hakanbasargan?logo=twitter&style=for-the-badge" alt="hakanbasargan" /></a> </p>
 
-- 🔭 I’m currently working on **Vertical movement of the autonomous vehicle**
+- 🔭 I’m currently working on **Vertical movement control of the autonomous vehicle**
 
 - 👯 I’m looking to collaborate on **Trajectory planning and tracking of autonomous vehicle**
 
