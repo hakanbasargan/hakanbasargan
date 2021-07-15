@@ -2,9 +2,9 @@
 <h3 align="center">Ph.D. researcher for Budapest University of Technology and Economics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hakanbasargan&label=Profile%20views&color=0e75b6&style=flat" alt="hakanbasargan" /> </p>
+![alt text](https://hakanbasargan.com/xavierhakan.png)
 
 <p align="left"> <a href="https://twitter.com/hakanbasargan" target="blank"><img src="https://img.shields.io/twitter/follow/hakanbasargan?logo=twitter&style=for-the-badge" alt="hakanbasargan" /></a> </p>
-![alt text](https://hakanbasargan.com/xavierhakan.png)
 
 - 🔭 I’m currently working on **Vertical movement control of the autonomous vehicle**
 
